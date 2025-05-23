@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./", // Set the base directory
+    "paths": {
+      "@models/*": ["models/*"]
+    }
+  }
+}
