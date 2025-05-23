@@ -36,5 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-Deployment link- [https://turf-booking-three.vercel.app/home](https://tutorial-tau-henna.vercel.app/home
-)
+Deployment link- https://tutorial-tau-henna.vercel.app/home
+
